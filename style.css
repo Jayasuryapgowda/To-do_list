@@ -1,7 +1,7 @@
 body {
-	background: #04A1BF;
+	background: #f5f2f2;
 	text-align: center;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 .intro {
@@ -10,29 +10,12 @@ body {
 }
 
 h1 {
-	color: #ffffff;
+	color: #fa970d;
 	text-transform: uppercase;
 	font-weight: 800;
 }
 
-p {
-	font-weight: 600;
-}
 
-#first {
-	margin-top: 10px;
-	color: #FFCD5D;
-}
-
-#second {
-	color: #51DF70;
-
-}
-
-#third {
-	color: #025F70;
-	margin-bottom: 30px;
-}
 
 
 #enter {
